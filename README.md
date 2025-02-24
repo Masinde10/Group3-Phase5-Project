@@ -12,6 +12,8 @@ Group 3:
 
 # Sentiment Analysis Project
 
+![Sentiment Analysis Project](Images\pic.webp)
+
 ### 1. Business Understanding
 Online platforms like Walmart generate vast amounts of customer reviews daily. Manually extracting insights from these reviews is labor-intensive and inefficient. Traditional rating systems (1-5 stars) often fail to capture the true sentiment expressed in customer feedback. This project aims to build an automated sentiment analysis model to classify customer reviews into positive, negative, or neutral sentiments.
 
@@ -57,12 +59,16 @@ Fast       650
 
 The word frequency analysis shows that positive terms like "great" and "quality" appear most often, suggesting a prevalence of favorable customer experiences. However, the presence of words like "bad" indicates areas of concern. This analysis helps identify key themes and commonly mentioned aspects of customer feedback.
 
-![Alt Text](image_path)
+![Trends of Reviews](Images\output1.png)
+
+![Word Cloud](Images\output.png)
 
 ## 5. Modeling
 
 ### Model Selection
 We employ the VADER (Valence Aware Dictionary and sEntiment Reasoner) tool for sentiment analysis. It is particularly effective for short texts like customer reviews. VADER assigns sentiment scores (positive, negative, neutral, and compound) based on a lexicon and rule-based approach.
+
+![Word Cloud](Images\output3.png)
 
 ## 6. Evaluation
 
