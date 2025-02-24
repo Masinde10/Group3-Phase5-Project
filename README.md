@@ -1,11 +1,11 @@
 # Group3-Phase5-Project
 # Authors
 Group 3:
-- Gideon Ochieng
-- Ann Mwangi
-- Victor Masinde
-- Lorna Gatimu
-- Charles Odhiambo
+- [Gideon Ochieng](https://github.com/OchiengGideon)
+- [Ann Mwangi](https://github.com/ann-mw)
+- [Victor Masinde](https://github.com/Masinde10)
+- [lorna Gatimu](https://github.com/lorna-creator)
+- [Charles Odhiambo](https://github.com/T-hoveen)
 
 ### Technical Mentor
 - Maryann Mwikali
@@ -56,6 +56,8 @@ Fast       650
 ```
 
 The word frequency analysis shows that positive terms like "great" and "quality" appear most often, suggesting a prevalence of favorable customer experiences. However, the presence of words like "bad" indicates areas of concern. This analysis helps identify key themes and commonly mentioned aspects of customer feedback.
+
+![Alt Text](image_path)
 
 ## 5. Modeling
 
